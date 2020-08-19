@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/fogleman/gg"
-	"github.com/goccy/go-graphviz/internal/ccall"
+	"github.com/livewyer-ops/go-graphviz/internal/ccall"
 	"github.com/golang/freetype/truetype"
 	"golang.org/x/image/font"
 	"golang.org/x/image/font/gofont/goregular"

@@ -4,8 +4,8 @@ import (
 	"image"
 	"io"
 
-	"github.com/goccy/go-graphviz/cgraph"
-	"github.com/goccy/go-graphviz/gvc"
+	"github.com/livewyer-ops/go-graphviz/cgraph"
+	"github.com/livewyer-ops/go-graphviz/gvc"
 	"golang.org/x/image/font"
 )
 

@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/goccy/go-graphviz"
-	"github.com/goccy/go-graphviz/cgraph"
+	"github.com/livewyer-ops/go-graphviz"
+	"github.com/livewyer-ops/go-graphviz/cgraph"
 	"github.com/jessevdk/go-flags"
 	"golang.org/x/crypto/ssh/terminal"
 )

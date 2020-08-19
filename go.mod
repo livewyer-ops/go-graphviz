@@ -1,6 +1,6 @@
-module github.com/goccy/go-graphviz
+module github.com/livewyer-ops/go-graphviz
 
-go 1.12
+go 1.14
 
 require (
 	github.com/corona10/goimagehash v1.0.2
@@ -8,6 +8,7 @@ require (
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/pkg/errors v0.9.1
-	golang.org/x/crypto v0.0.0-20200204104054-c9f3fb736b72
-	golang.org/x/image v0.0.0-20200119044424-58c23975cae1
+	golang.org/x/crypto v0.0.0-20200728195943-123391ffb6de
+	golang.org/x/image v0.0.0-20200801110659-972c09e46d76
+	golang.org/x/sys v0.0.0-20200819141100-7c7a22168250 // indirect
 )

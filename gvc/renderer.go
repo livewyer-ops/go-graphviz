@@ -3,7 +3,7 @@ package gvc
 import (
 	"sync"
 
-	"github.com/goccy/go-graphviz/internal/ccall"
+	"github.com/livewyer-ops/go-graphviz/internal/ccall"
 	"github.com/pkg/errors"
 )
 
