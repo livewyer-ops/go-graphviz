@@ -10,5 +10,4 @@ require (
 	github.com/pkg/errors v0.9.1
 	golang.org/x/crypto v0.0.0-20200728195943-123391ffb6de
 	golang.org/x/image v0.0.0-20200801110659-972c09e46d76
-	golang.org/x/sys v0.0.0-20200819141100-7c7a22168250 // indirect
 )
