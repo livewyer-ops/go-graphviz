@@ -12,6 +12,7 @@ package graphviz
 //  - this file is given a build to exclude it from the regular build.
 import (
 	// Prevent go tooling from stripping out the c source files.
+	_ "github.com/livewyer-ops/go-graphviz/internal"
 	_ "github.com/livewyer-ops/go-graphviz/internal/ccall/ast"
 	_ "github.com/livewyer-ops/go-graphviz/internal/ccall/cdt"
 	_ "github.com/livewyer-ops/go-graphviz/internal/ccall/cgraph"
